@@ -46,7 +46,7 @@
   "devDependencies": {
     "@giscus/vue": "^3.1.1",
     "@types/glob": "^8.1.0",
-    "@types/node": "^22.10.5",
+    "@types/node": "^22.10.7",
     "autocorrect-node": "^2.13.0",
     "cheerio": "^1.0.0",
     "dotenv": "^16.4.7",
