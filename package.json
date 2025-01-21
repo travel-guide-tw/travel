@@ -55,7 +55,7 @@
     "markdown-it": "^14.1.0",
     "markdown-it-task-lists": "^2.1.1",
     "prettier": "^3.4.2",
-    "sass": "^1.83.1",
+    "sass": "^1.83.4",
     "segment": "^0.1.3",
     "vitepress": "^1.6.1"
   }
